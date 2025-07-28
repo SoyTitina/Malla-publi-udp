@@ -1,0 +1,16 @@
+{
+  "s1": [
+    ["Laboratorio de Investigación Publicitaria","LIP-001",3,0,"LAB",[],"A"],
+    ["Taller de Imagen y Retoque Digital","TIRD-002",3,0,"LAB",[],"A"],
+    ["Antropología del Consumo","ANTC-003",3,0,"CON",[],"A"],
+    ["Teoría de la Imagen y Sociedad","TIS-004",3,0,"CON",[],"A"],
+    ["Economía de la Empresa","EE-005",3,0,"NEG",[],"A"],
+    ["Ética y Legislación","EL-006",3,0,"GEN",[],"A"]
+  ],
+  "s8": [
+    ["Clínica Profesional", "CLP-007",3,0,"PROF", ["CLD-xxx"],"A"],
+    ["Práctica Profesional","PPR-008",3,0,"PROF",[],"A"],
+    ["Electivos","ELEC-009",3,0,"ELECT",[],"A"],
+    ["Curso de Formación General","CFG-010",3,0,"GEN",[],"A"]
+  ]
+}
