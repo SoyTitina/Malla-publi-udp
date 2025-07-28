@@ -1,1 +1,30 @@
-
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+h1 {
+  text-align: center;
+}
+#mesh {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 5px;
+  margin-top: 20px;
+}
+.cell {
+  border: 1px solid #999;
+  padding: 10px;
+  text-align: center;
+}
+.legend-item {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 0.9em;
+}
+.legend-color {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+  margin-right: 4px;
+}
